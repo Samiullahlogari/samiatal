@@ -1,5 +1,5 @@
 """
-Script open source by Mafia©
+Script open source by Mafia
 Orignal code of TRT
 Github : Muzammil-404
 Give credit to Mafia if you dont want to give credit
